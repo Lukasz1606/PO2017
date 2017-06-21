@@ -1,11 +1,11 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Damian Jedrysiak 212549 https://github.com/jedrysiak-damian/Ogrzewanie
 Bartłomiej Więcek 218008 https://github.com/Patryk11178/Projekt-PO
-Janusz Muzyka 214903
+Janusz Muzyka 214903 https://github.com/Janusz1079/ARMA
 Patrycja Papież 221124
 Patryk Kopczyński 221112 https://github.com/Patryk11178/Projekt-PO
 Anita Poźniak 221259
 Justyna Drab 221128 https://github.com/justynad/system_alarmowy_projekt
 Żaneta Radka 221147 https://github.com/justynad/system_alarmowy_projekt
 Miłosz Kraska 202185
-Łukasz Nenkin 221114
+Łukasz Nenkin 221114 https://github.com/Janusz1079/ARMA
